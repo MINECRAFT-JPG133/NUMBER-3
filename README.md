@@ -19,4 +19,4 @@ print(f"Nether gates at X: {nether_x}, Z: {nether_z}")
 ---
 
 ## Мой следующий пункт назначения
-![незер](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIv8QNtNnz2vFnehR3jew9-vVBQuYhIqcO8YoCsPz8Xw&s=10)
+![незер](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRggynoRBMSQVSw4SIO8lFGDOZ63x7rIB2shl2bFe_IfA&s=10)
